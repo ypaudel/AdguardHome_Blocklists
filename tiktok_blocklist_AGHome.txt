@@ -22,3 +22,8 @@
 ||whoami.akamai.net^
 ||a2047.t.akamai.net^
 ||zbdhwme.v.ecdnx.com^
+||tiktokv.us^
+||tiktokcdn-eu.com^
+||ibyteimg.com^
+||bytefcdn-ttpeu.com^
+||byteoversea.net^
